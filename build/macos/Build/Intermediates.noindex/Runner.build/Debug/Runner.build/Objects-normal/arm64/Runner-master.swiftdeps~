@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "397806839ef28a2e65f1a1b3db77a0c55c1c2ef4f58a5907b97cd9715d794ed9"
+build_start_time: [1688956201, 285324000]
+build_end_time: [1688956201, 317864000]
+inputs:
+  "/Users/andrealyndestajo/Documents/Workspace/ecommerce/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1688956169, 502084193]
+  "/Users/andrealyndestajo/Documents/Workspace/ecommerce/macos/Runner/AppDelegate.swift": !private [1687314553, 320487534]
+  "/Users/andrealyndestajo/Documents/Workspace/ecommerce/macos/Runner/MainFlutterWindow.swift": !private [1687314553, 322945951]
